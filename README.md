@@ -4,4 +4,4 @@ SKT Psyche Lite is a calm and simple WordPress theme made for mental health and 
 
 This theme can also be used as a [Psychotherapist WordPress Theme](https://www.sktthemes.org/shop/psychotherapist-wordpress-theme/) for therapy centers, wellness clinics, and support professionals. You can share services, profiles, and contact details without confusion.
 
-SKT Psyche Lite also fits as a Psychologist WordPress Theme for mental health awareness, personal practice sites, and counseling blogs. It is beginner-friendly, works smoothly on all devices, and helps build trust through simple language and a human-focused design.
+SKT Psyche Lite also fits as a [Psychologist WordPress Theme](https://www.sktthemes.org/shop/psychologist-wordpress-theme/) for mental health awareness, personal practice sites, and counseling blogs. It is beginner-friendly, works smoothly on all devices, and helps build trust through simple language and a human-focused design.
